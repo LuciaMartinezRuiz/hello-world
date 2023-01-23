@@ -4,7 +4,8 @@ Lucía Martínez Ruiz
 
 La práctica1 consiste en entender Github y trabajar con algunos de sus comandos.
 Para comenzar, se realiza un fork del repositorio: https://github.com/gitt-3-pat/hello-world
-A continuación se explicarán los comandos y su uso:
+A continuación se explicarán los comandos y su uso.
+
 Fork: se baja el repositorio para poder editarlo.
 
 
@@ -52,13 +53,3 @@ Intellij:
 
 
 
-
-
-
-
-Instalaciones:
-Maven:  
-
-Java: 
-
-Intellij:
