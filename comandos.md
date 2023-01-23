@@ -45,13 +45,16 @@ Para comprobar que existen estas dos ramas y que “feature/1” se ha creado co
 
 Instalaciones:
 
-Maven:  
+Maven: 
+
 ![image](https://user-images.githubusercontent.com/123204798/214107816-bee87e51-8548-443a-ab9c-84cbc15a1bf7.png)
 
 Java: 
+
 ![image](https://user-images.githubusercontent.com/123204798/214107848-9dc46654-f413-4557-80cd-8ae488a2b70b.png)
 
 Intellij:
+
 ![image](https://user-images.githubusercontent.com/123204798/214107865-81141baa-6de5-48c4-8867-891963a1c26f.png)
 
 
