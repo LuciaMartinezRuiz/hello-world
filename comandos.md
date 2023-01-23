@@ -3,7 +3,9 @@ Lucía Martínez Ruiz
 3ºB GITT+BA
 
 La práctica1 consiste en entender Github y trabajar con algunos de sus comandos.
+
 Para comenzar, se realiza un fork del repositorio: https://github.com/gitt-3-pat/hello-world
+
 A continuación se explicarán los comandos y su uso.
 
 Fork: se baja el repositorio para poder editarlo.
@@ -42,6 +44,7 @@ Para comprobar que existen estas dos ramas y que “feature/1” se ha creado co
 
 
 Instalaciones:
+
 Maven:  
 ![image](https://user-images.githubusercontent.com/123204798/214107816-bee87e51-8548-443a-ab9c-84cbc15a1bf7.png)
 
